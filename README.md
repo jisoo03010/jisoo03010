@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?height=200&color=auto&text=JisooKim)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&text=JisooKim)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
 
 
 
@@ -21,9 +20,6 @@
 
 <br>
 
-
-<br>
-
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href=https://www.instagram.com/sooo._.jii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sooo._.jii/"/></a>&nbsp
@@ -31,6 +27,3 @@
 </p>
 <br>
 
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
