@@ -24,11 +24,13 @@
 ## 🏆 Activity
 <a href="https://datacentric.kr/"><h2>데이터센트릭(2022.9 ~ 재직중)</h2></a>
 
+
 <a href="https://github.com/jisoo03010/Image_AI_module_create">이미지 분류 웹 프로젝트</a>
 - 이미지 분류 AI 웹 개발 (HTML, CSS, Javascript, Jquery, Python(Flask, Pytorch)) - RestAPI
   - Pytorch 모델 활용 및 다양한 라이브러리 경험
   - 비동기 화 Javascript 개발 경험
   - Jquery 다양한 활용도 경험
+<a href="[https://github.com/jisoo03010/Image_AI_module_create](https://github.com/jisoo03010/ServerMonitering)">서버 모니터링 웹 개발</a>
 - 서버 모니터링 웹 개발 (HTML, CSS, Javascript, Jquery, JAVA(SpringBoot(JPA, Mybatis)), DB(Mysql)) - MVC, RestAPI
   - MVC 패턴 구조 구현 및 중요도 경험
   - RestAPI의 활용 경험
