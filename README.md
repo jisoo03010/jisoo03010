@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/TensorFlow-white?style=flat-square&logo=TensorFlow&logoColor=orange"/></a>
+  <img src="https://img.shields.io/badge/TensorFlow-f4d6c1?style=flat-square&logo=TensorFlow&logoColor=orange"/></a>
   <img src="https://img.shields.io/badge/PyTorch-orange?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
 
