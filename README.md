@@ -20,8 +20,6 @@
 <br>
 
 ##🧸 Me 
-<p align="center">
   <a href=https://www.instagram.com/sooo._.jii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sooo._.jii/"/></a>
   <a href="mailto:040310jisoo@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=040310jisoo@naver.com"/></a>
-</p>
 
