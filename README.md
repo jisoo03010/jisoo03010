@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TensorFlow-f4d6c1?style=flat-square&logo=TensorFlow&logoColor=orange"/></a>
   <img src="https://img.shields.io/badge/PyTorch-orange?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=Linux&logoColor=black"/></a>
 
 
 
