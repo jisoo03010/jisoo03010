@@ -18,8 +18,10 @@
 
 
 <br>
-
+# Stats
+[![archan's github stats](https://github-readme-stats.vercel.app/api?username=archan0621)](https://github.com/anuraghazra/github-readme-stats)
 ## 🧸 Me 
 
+  <a href="mailto:040310jisoo@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=040310jisoo@naver.com"/></a>
   <a href="mailto:040310jisoo@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=040310jisoo@naver.com"/></a>
 
