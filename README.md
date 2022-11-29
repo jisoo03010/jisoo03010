@@ -22,22 +22,26 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 
 ## 🏆 Activity
-<a href="https://datacentric.kr/"><h2>데이터센트릭(고2 10월 ~ 현재까지 재직중)</h2></a>
+<a href="https://datacentric.kr/"><h2>데이터센트릭(2022.9 ~ 재직중)</h2></a>
 
 <a href="https://github.com/jisoo03010/Image_AI_module_create">이미지 분류 웹 프로젝트</a>
-- pytorch를 활용한 이미지 분류 웹 프로젝트 진행하였다. 모델은 resnet18과 densnet16을 사용하여 더 높은 최대 98%의 정확도를 가져온 densnet16을 사용하였다,
-  데이터크롤링과 데이터전처리로 이미지를 가공한 후 가공한 이미지를 densnet16으로 학습시킨다.
-  그럼 사용자는 드라이브에서 이미지를 선택후 해당 이미지가 누구와 가장 흡사한지, 이 사진이 누구인지를 알려주는 %(퍼센트)로 알려준다. 마치 "티쳐블 머신"과 비슷한 웹 프로젝트를 진행하였다.
-  (HTML, CSS, Javascript, Jquery, Python(Flask, Pytorch))
-- 서버 모니터링 웹 (HTML, CSS, Javascript, Jquery, JAVA(SpringBoot), DB(Mysql))
+- 이미지 분류 AI 웹 개발 (HTML, CSS, Javascript, Jquery, Python(Flask, Pytorch)) - RestAPI
+  - Pytorch 모델 활용 및 다양한 라이브러리 경험
+  - 비동기 화 Javascript 개발 경험
+  - Jquery 다양한 활용도 경험
+- 서버 모니터링 웹 개발 (HTML, CSS, Javascript, Jquery, JAVA(SpringBoot(JPA, Mybatis)), DB(Mysql)) - MVC, RestAPI
+  - MVC 패턴 구조 구현 및 중요도 경험
+  - RestAPI의 활용 경험
+  - SpringBoot의 여러 라이브러리 및 여러 JDBC 경험
+  - Js의 Ajax활용 경험
+  - JAVA 다양한 라이브러리 경험
+  - 
 ## 🎉 Stats
 
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=jisoo03010)](https://github.com/jisoo03010/github-readme-stats)
 
 
 ## 🤝🏻 Contact
-
-
 
    <a href="https://jisoo0310.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white&link=[040310jisoo@naver.com](https://jisoo0310.tistory.com)"/></a>
   <a href="mailto:040310jisoo@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=040310jisoo@naver.com"/></a>
