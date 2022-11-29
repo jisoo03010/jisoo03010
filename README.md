@@ -23,7 +23,7 @@
 
 ## 🏆 Activity
 <a href="https://datacentric.kr/"><h2>데이터센트릭(고2 10월 ~ 현재까지 재직중)</h2></a>
-##
+
 <a href="https://github.com/jisoo03010/Image_AI_module_create">이미지 분류 웹 프로젝트</a>
 pytorch를 활용한 이미지 분류 웹 프로젝트 진행하였다. 모델은 resnet18과 densnet16을 사용하여 더 높은 최대 98%의 정확도를 가져온 densnet16을 사용하였다,
 데이터크롤링과 데이터전처리로 이미지를 가공한 후 가공한 이미지를 densnet16으로 학습시킨다.
