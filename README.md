@@ -17,8 +17,7 @@
 
 
 
-<br>
-# Stats
+## Stats
 
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=jisoo03010)](https://github.com/jisoo03010/github-readme-stats)
 
