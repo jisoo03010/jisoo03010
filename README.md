@@ -30,6 +30,7 @@
   - Pytorch 모델 활용 및 다양한 라이브러리 경험
   - 비동기 화 Javascript 개발 경험
   - Jquery 다양한 활용도 경험
+  
 <a href="https://github.com/jisoo03010/ServerMonitering">서버 모니터링 웹 개발</a>
 - 서버 모니터링 웹 개발 (HTML, CSS, Javascript, Jquery, JAVA(SpringBoot(JPA, Mybatis)), DB(Mysql)) - MVC, RestAPI
   - MVC 패턴 구조 구현 및 중요도 경험
