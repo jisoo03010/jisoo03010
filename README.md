@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&text=JisooKim)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
+#   
+
 ## 🛠 Technical Skills
 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -21,5 +24,5 @@
 
 
 ## 🤝🏻 Contact 
-
+   <a href="https://jisoo0310.tistory.com/">Tistory</a>
   <a href="mailto:040310jisoo@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=040310jisoo@naver.com"/></a>
