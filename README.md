@@ -19,7 +19,7 @@
 
 <br>
 
-##🧸 Me 
+## 🧸 Me 
 
   <a href="mailto:040310jisoo@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=040310jisoo@naver.com"/></a>
 
