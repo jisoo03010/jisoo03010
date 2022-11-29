@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-#   
+#   HI I'm Jisoo Kim 
 
 ## 🛠 Technical Skills
 
@@ -18,7 +18,7 @@
 
 ## 🏆 Career
 
-## Stats
+## 🎉 Stats
 
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=jisoo03010)](https://github.com/jisoo03010/github-readme-stats)
 
