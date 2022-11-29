@@ -21,7 +21,13 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 
-## 🏆 Career
+## 🏆 Activity
+<a href="https://datacentric.kr/"><h2>데이터센트릭(고2 10월 ~ 현재까지 재직중)</h2></a>
+##
+<a href="https://github.com/jisoo03010/Image_AI_module_create">이미지 분류 웹 프로젝트</a>
+pytorch를 활용한 이미지 분류 웹 프로젝트 진행 resnet18과 densnet16모델을 사용,
+3명의 연예인을 미리 선정후 데이터크롤링과 데이터전처리를 통해 해당 연예인의 얼굴만 구글에서 이미지를 가져온다, 가자온 이미지를 학습시켜 
+내가 드라이브에서 선택한 이미지가 누구와 가장 흡사한지, 이 사진이 누구인지를 알려주는 "티쳐블 머신"과 비슷한 웹 프로젝트를 진행하였다.
 
 ## 🎉 Stats
 
