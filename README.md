@@ -26,8 +26,8 @@
 ## 🤝🏻 Contact
 
 
-<img src="[https://img.shields.io/badge/JavaScript-F7DF1E](https://user-images.githubusercontent.com/73218962/204416381-9a0fe885-046a-42db-bba3-5d07445082b1.svg)?style=flat-square&logo=Tistory&logoColor=white"/>
-   <a href="https://jisoo0310.tistory.com/"></a>
+
+   <a href="https://jisoo0310.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white&link=[040310jisoo@naver.com](https://jisoo0310.tistory.com)"/></a>
   <a href="mailto:040310jisoo@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=040310jisoo@naver.com"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
