@@ -35,8 +35,6 @@
   - MVC 패턴 경험
   - RestAPI의 활용 경험
   - SpringBoot의 여러 라이브러리 경험
-  - Js의 Ajax활용 경험
-   
   
 ## 🎉 Stats
 
