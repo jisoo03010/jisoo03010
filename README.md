@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/MariaDB-#003545?style=flat-square&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySql-#003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 
 ## 🏆 Activity
 <a href="https://datacentric.kr/"><h2>데이터센트릭(2022.9 ~ 재직중)</h2></a>![file_type_mariadb_icon_130403](https://user-images.githubusercontent.com/73218962/218697022-ae6d8f13-f961-4391-9745-eaf32cdce1e1.png)
