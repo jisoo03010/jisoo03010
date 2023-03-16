@@ -40,6 +40,10 @@
   - SpringBoot의 여러 라이브러리 경험
    
 <a href="https://github.com/jisoo03010/WordCloud">Word Cloud 개발</a>
+- Word Cloud 개발 (HTML, CSS, Jquery, Python(flask), DB(Mysql)) - RestAPI
+  - python 제공 word cloud 모듈 활용 경험
+  - 
+
 
 - Spring Cloud 개발 - 공부중..
   
