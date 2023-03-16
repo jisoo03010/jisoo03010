@@ -38,7 +38,7 @@
   - MVC 패턴 경험
   - RestAPI의 활용 경험
   - SpringBoot의 여러 라이브러리 경험
-- Word Cloud 개발 - 현재 진행중..
+<a href="https://github.com/jisoo03010/WordCloud">Word Cloud 개발</a>
 
 - Spring Cloud 개발 - 공부중..
   
