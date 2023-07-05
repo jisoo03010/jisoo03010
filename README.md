@@ -32,6 +32,7 @@
 - 이미지 분류 AI 웹 개발 (HTML, CSS, Javascript, Jquery, Python(Flask, Pytorch)) - RestAPI
   - Pytorch 모델 활용 및 다양한 라이브러리 경험
   - 비동기  Javascript 개발 경험
+  - + v0.2 웹캠을 활용한 실시간 얼굴인식 웹서비스 구현
   
 <a href="https://github.com/jisoo03010/ServerMonitering">서버 모니터링 웹 개발</a>
 - 서버 모니터링 웹 개발 (HTML, CSS, Javascript, Jquery, JAVA(SpringBoot(JPA, Mybatis)), DB(Mysql)) - MVC, RestAPI
