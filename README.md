@@ -48,7 +48,7 @@
   
 
 <a href="https://github.com/jisoo03010/chatingReact">실시간 채팅 서비스 개발</a>
-- Word Cloud 개발 (HTML, CSS, JavaScript(React), Node.js) - RestAPI
+- 실시간 채팅 서비스 개발 (HTML, CSS, JavaScript(React), Node.js) - RestAPI
   - 웹소켓 활용 경험
   - React 활용 경험
   - Node.js 사용 경험
