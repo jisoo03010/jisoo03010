@@ -50,8 +50,8 @@
 <a href="https://github.com/jisoo03010/chatingReact">실시간 채팅 서비스 개발</a>
 - 실시간 채팅 서비스 개발 (HTML, CSS, JavaScript(React), Node.js) - RestAPI
   - 웹소켓 활용 경험
-  - React 활용 경험
-  - Node.js 사용 경험
+  - React 사용 경험
+  - Node.js socket.io 라이브러리 활용 경험
   - 웹소켓의 기본적 지식 학습 경험
  
 ## 🎉 Stats
