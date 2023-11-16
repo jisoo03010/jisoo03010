@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/PyTorch-orange?style=flat-square&logo=PyTorch&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=Linux&logoColor=black"/></a>
 
-
+  
 
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
