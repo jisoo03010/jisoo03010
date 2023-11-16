@@ -24,35 +24,17 @@
 ## ⚙️ Tools
 <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-## 🤝 Activity
+## 🤝 Side Project
 
 
 
 <a href="https://github.com/jisoo03010/Image_AI_module_create">이미지 분류 웹 프로젝트</a>
-- 이미지 분류 AI 웹 개발 (HTML, CSS, Javascript, Jquery, Python(Flask, Pytorch)) - RestAPI
-  - Pytorch 모델 활용 및 다양한 라이브러리 경험
-  - 비동기  Javascript 개발 경험
-  - ++ v0.2 웹캠을 활용한 실시간 얼굴인식 웹서비스 구현
   
 <a href="https://github.com/jisoo03010/ServerMonitering">서버 모니터링 웹 개발</a>
-- 서버 모니터링 웹 개발 (HTML, CSS, Javascript, Jquery, JAVA(SpringBoot(JPA, Mybatis)), DB(Mysql)) - MVC, RestAPI
-  - MVC 패턴 경험
-  - RestAPI의 활용 경험
-  - SpringBoot의 여러 라이브러리 경험
    
 <a href="https://github.com/jisoo03010/WordCloud">Word Cloud 개발</a>
-- Word Cloud 개발 (HTML, CSS, Jquery, Python(flask), DB(Mysql)) - RestAPI
-  - python 제공 word cloud 모듈 활용 경험
-  - 텍스트 마이닝 경험
-  - 데이터 분석 및 크롤링 경험
-  
 
 <a href="https://github.com/jisoo03010/chatingReact">실시간 채팅 서비스 개발</a>
-- 실시간 채팅 서비스 개발 (HTML, CSS, JavaScript(React), Node.js) - RestAPI
-  - 웹소켓 활용 경험
-  - React 사용 경험
-  - Node.js socket.io 라이브러리 활용 경험
-  - 웹소켓의 기본적 지식 학습 경험
  
 ## 🎉 Stats
 
