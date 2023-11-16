@@ -26,24 +26,17 @@
 
 ## 🤝 Side Project
 
-
-
 <a href="https://github.com/jisoo03010/Image_AI_module_create">이미지 분류 웹 프로젝트</a>
-  
 <a href="https://github.com/jisoo03010/ServerMonitering">서버 모니터링 웹 개발</a>
-   
 <a href="https://github.com/jisoo03010/WordCloud">Word Cloud 개발</a>
-
 <a href="https://github.com/jisoo03010/chatingReact">실시간 채팅 서비스 개발</a>
  
 ## 🎉 Stats
-
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=jisoo03010)](https://github.com/jisoo03010/github-readme-stats)
 
 
 ## 🤝🏻 Contact
-
-   <a href="https://jisoo0310.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white&link=[040310jisoo@naver.com](https://jisoo0310.tistory.com)"/></a>
-  <a href="mailto:040310jisoo@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=040310jisoo@naver.com"/></a>
+<a href="https://jisoo0310.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white&link=[040310jisoo@naver.com](https://jisoo0310.tistory.com)"/></a>
+<a href="mailto:040310jisoo@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=040310jisoo@naver.com"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
