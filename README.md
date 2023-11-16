@@ -22,7 +22,6 @@
   
 
 ## 🏆 Activity
-<a href="https://datacentric.kr/"><h2>데이터센트릭(2022.9 ~ 재직중)</h2></a>
 
 
 
