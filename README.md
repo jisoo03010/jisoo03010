@@ -27,9 +27,13 @@
 ## 🤝 Side Project
 
 <a href="https://github.com/jisoo03010/Image_AI_module_create">이미지 분류 웹 프로젝트</a>
+
 <a href="https://github.com/jisoo03010/ServerMonitering">서버 모니터링 웹 개발</a>
+
 <a href="https://github.com/jisoo03010/WordCloud">Word Cloud 개발</a>
+
 <a href="https://github.com/jisoo03010/chatingReact">실시간 채팅 서비스 개발</a>
+
  
 ## 🎉 Stats
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=jisoo03010)](https://github.com/jisoo03010/github-readme-stats)
