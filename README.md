@@ -13,20 +13,8 @@
 ## ⚙️ Tools
 <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-## 🤝 Side Project
-
-<a href="https://github.com/jisoo03010/Image_AI_module_create">이미지 분류 웹 프로젝트</a>
-
-<a href="https://github.com/jisoo03010/ServerMonitering">서버 모니터링 웹 개발</a>
-
-<a href="https://github.com/jisoo03010/WordCloud">Word Cloud 개발</a>
-
-<a href="https://github.com/jisoo03010/chatingReact">실시간 채팅 서비스 개발</a>
-
- 
 ## 🎉 Stats
 [![archan's github stats](https://github-readme-stats.vercel.app/api?username=jisoo03010)](https://github.com/jisoo03010/github-readme-stats)
-
 
 ## 🤝🏻 Contact
 <a href="https://jisoo0310.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white&link=[040310jisoo@naver.com](https://jisoo0310.tistory.com)"/></a>
