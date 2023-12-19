@@ -7,7 +7,7 @@
   
  #### Python:   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>   <img src="https://img.shields.io/badge/PyTorch-orange?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
-  #### DBMS:   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle& logoColor=white"/></a>  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+  #### DBMS:  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
   
 
 ## ⚙️ Tools
